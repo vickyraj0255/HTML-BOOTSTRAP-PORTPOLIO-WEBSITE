@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=poppins:300,400,500,600,700,800,900');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #003056;
+}
+section{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+}
+.fireworks{
+    position: fixed; 
+}
